@@ -83,6 +83,8 @@ This project can be further enhanced and expanded upon. Some potential enhanceme
 *   LinkedIn: https://www.linkedin.com/in/vedantgudpale
 *   GitHub: https://github.com/vedantgudpale
 
+
+**Disclaimer**
 *   This project serves as a foundational example of a client-server web network built and simulated within Packet Tracer, suitable for educational purposes and demonstrating basic networking principles.
 
 
