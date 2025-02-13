@@ -61,7 +61,7 @@ To access the simulated websites from within the Packet Tracer network:
 6.  **For Bedge.in, test the "Search" button and the "Dark Mode" toggle button to verify their functionality.
 
 
-## Further Enhancements (Optional)
+## Further Enhancements 
 
 This project can be further enhanced and expanded upon. Some potential enhancements include:
 
